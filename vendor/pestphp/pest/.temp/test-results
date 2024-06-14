@@ -1,0 +1,1 @@
+{"version":"pest_2.34.8","defects":{"P\\Tests\\Feature\\BookTest::__pest_evaluable_create_book":8},"times":{"Tests\\Unit\\ExampleTest::test_that_true_is_true":0.003,"P\\Tests\\Feature\\BookTest::__pest_evaluable_create_book":0.015,"Tests\\Feature\\ExampleTest::test_the_application_returns_a_successful_response":0.024,"Tests\\Feature\\BookTest::test_example":0.028}}
